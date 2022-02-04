@@ -1,0 +1,33 @@
+* {
+    background-color: darkslategray;
+    color: white;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.cover {
+    height: auto;
+    width: 500px;
+
+}
+
+h1 {
+    color: rgb(223, 202, 15);
+}
+
+h3 {
+    color: rgb(184, 178, 126);
+}
+
+.bt {
+    background-color: white;
+    color: darkslategray;
+}
+
+.ingredients li {
+    color: gold;
+}
+
+.link {
+    background-color: white;
+    color: darkslategray;;
+}
